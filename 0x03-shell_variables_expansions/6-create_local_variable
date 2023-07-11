@@ -1,2 +1,2 @@
 #!/bin/bash
-my_var="Hello, world!"; echo $my_var
+BEST="School"
